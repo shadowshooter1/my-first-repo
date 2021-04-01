@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-first-repo/static/css/main.77b2e8b5.chunk.css",
+    "main.js": "/my-first-repo/static/js/main.e5920aaa.chunk.js",
+    "main.js.map": "/my-first-repo/static/js/main.e5920aaa.chunk.js.map",
+    "runtime-main.js": "/my-first-repo/static/js/runtime-main.8a1ce812.js",
+    "runtime-main.js.map": "/my-first-repo/static/js/runtime-main.8a1ce812.js.map",
+    "static/js/2.66016b4e.chunk.js": "/my-first-repo/static/js/2.66016b4e.chunk.js",
+    "static/js/2.66016b4e.chunk.js.map": "/my-first-repo/static/js/2.66016b4e.chunk.js.map",
+    "static/js/3.8e03d17c.chunk.js": "/my-first-repo/static/js/3.8e03d17c.chunk.js",
+    "static/js/3.8e03d17c.chunk.js.map": "/my-first-repo/static/js/3.8e03d17c.chunk.js.map",
+    "index.html": "/my-first-repo/index.html",
+    "static/css/main.77b2e8b5.chunk.css.map": "/my-first-repo/static/css/main.77b2e8b5.chunk.css.map",
+    "static/js/2.66016b4e.chunk.js.LICENSE.txt": "/my-first-repo/static/js/2.66016b4e.chunk.js.LICENSE.txt",
+    "static/media/symbol_OK.572faa1d.svg": "/my-first-repo/static/media/symbol_OK.572faa1d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a1ce812.js",
+    "static/js/2.66016b4e.chunk.js",
+    "static/css/main.77b2e8b5.chunk.css",
+    "static/js/main.e5920aaa.chunk.js"
+  ]
+}
