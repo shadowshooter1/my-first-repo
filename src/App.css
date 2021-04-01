@@ -1,0 +1,23 @@
+.main-comp{
+ background-color:gold;
+ border-radius: 10px;
+ padding: 10px;
+ 
+ font-size: 15px;
+  
+  margin-left: 30%;
+  margin-right: 30%;
+}
+.inputbutton{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.inputklasa{
+  background-color: lightcoral;
+  
+}
+.menu-active{
+  text-decoration-line: line-through;
+}
