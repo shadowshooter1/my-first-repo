@@ -49,11 +49,12 @@ class App extends React.Component{
     const {list}= this.state
     return(
       <div className="main-comp">
-       <div className="inputbutton" style={{fontSize:"12px"}}>
-       My To-do-tasks UPDATE:
+       <h1 style={{fontSize:"12px"}}>My To-do-tasks :</h1>
+       <div className="inputbutton" >
+       
         
           <input className="inputklasa" type="text" value={this.state.input} onChange={this.handleChange} onKeyPress={this.handleSubmit}/>
-          <button onClick={this.handleSubmit} style={{backgroundColor:"red"}} > <img src={Logo} alt="" style={{height:"1em"}}/></button>  
+          <button className="buttonklasa" onClick={this.handleSubmit} style={{backgroundColor:"red"}} > <img src={Logo} alt="" style={{height:"1em"}}/></button>  
         
           </div>
         {list.map((val,key1)=>(

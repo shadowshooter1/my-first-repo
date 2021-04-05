@@ -1,23 +1,34 @@
 .main-comp{
  background-color:gold;
  border-radius: 10px;
- padding: 10px;
+ padding: 5px;
  
  font-size: 15px;
   
-  margin-left: 30%;
-  margin-right: 30%;
+ margin-left: 10%;
+ margin-right: 10%;
 }
 .inputbutton{
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  
+ display: inline-block;
+  color: aqua;
+  margin: auto;
+  width: 100%;
 }
 .inputklasa{
   background-color: lightcoral;
-  
+  width:70%
+}
+
+.buttonklasa{
+  overflow: visible;
 }
 .menu-active{
   text-decoration-line: line-through;
+}
+
+@media only screen and (min-width: 350px) {
+  .main-comp{ 
+    margin-left: 30%;
+    margin-right: 30%;
+  }
 }
